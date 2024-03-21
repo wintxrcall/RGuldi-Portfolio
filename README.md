@@ -5,7 +5,7 @@
 I am currently in the process of completing my Associates of Applied Science in Software Development at [Ivy Tech Community College](https://www.ivytech.edu/) with an expected graduation date of December 2024.
 If you would like to learn more about me please read below and you are more than welcome to connect with me via LinkedIn or email: :smile:
 
-[![LinkedIn Badge](https://img.shields.io/badge/rguldi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/rguldi)](www.linkedin.com/in/rguldi)
+[![LinkedIn Badge](https://img.shields.io/badge/rguldi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rguldi)](https://www.linkedin.com/in/rguldi)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:r.guldi@outlook.com)](mailto:r.guldi@outlook.com)
 <br>
 <br>
